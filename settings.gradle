@@ -1,0 +1,5 @@
+rootProject.name = 'fabric8-gradle-plugin-parent'
+
+include 'fabric8-gradle-plugin'
+include 'fabric8-gradle-plugin-example'
+
